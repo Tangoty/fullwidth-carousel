@@ -1,17 +1,5 @@
 # Full-Width Carousel
 
-A flexible, performant, full-width React carousel component.
-
-## Features
-- ✅ Full screen width
-- ✅ Infinite scroll (optional, default `true`)
-- ✅ Autoscroll with configurable interval (default `15000` ms)
-- ✅ Manual selection dots (optional, default `true`)
-- ✅ Pause on hover/focus
-- ✅ GPU-accelerated transforms (`translate3d`)
-- ✅ Lazy-loads off-screen images
-- ✅ Accessible (ARIA roles, keyboard focus)
-
 ## Usage
 
 ```jsx
